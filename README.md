@@ -4,8 +4,8 @@
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with C, C++, DS, Algorithm <br /> OOP, SQL, Django etc.
-- 🚀 &nbsp; I’m currently learning CCNA, MikroTik.
+- 🛠 &nbsp; I’m currently working with cisco, mikrotik etc.
+- 🚀 &nbsp; I’m currently learning CCNA, MTCNA, MTCRE.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]().
 
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/). -->
